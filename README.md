@@ -1,4 +1,4 @@
-## Hi 👋, I'm Gabriel Sancho, a Developer 🚀 from Brasil!
+## Hi 👋, I'm Gabriel Sancho, a Developer 🚀 from Brazil!
 
 ---
 
