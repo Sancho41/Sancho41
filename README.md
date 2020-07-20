@@ -18,7 +18,7 @@
 
 ### _I',m a **Computer Science**_ 💻 _student, constantly trying to conquer de **world**_ 🌎
 
-- 🌱 I’m currently learning **Flutter** and **Firebase**
+- 🌱 I’m currently learning **Flutter**
 - 🤔 I’m looking for help with getting a job, please hire me 🙏
 - 💬 Ask me about anything, i'm glad to help 😉
 - 📫 How to reach me: You can click in any social media above, be my friend 😁
