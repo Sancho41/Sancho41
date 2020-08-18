@@ -30,28 +30,27 @@
 - Languages
 
 
-
-<img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/javascript.png" />
-<img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/html5.png" />
-<img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/css.png" />
-<img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/java.png" />
-<img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/php.png" />
-<img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/python.png" />
-<img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/c.png" />
-
----
+<p float="left">
+  <img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/javascript.png" />
+  <img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/html5.png" />
+  <img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/css.png" />
+  <img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/java.png" />
+  <img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/php.png" />
+  <img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/python.png" />
+  <img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/c.png" />
+</p>
 
 - Tecnologies and frameworks
 
-<img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/typescript.png" />
-<img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/flutter.png" />
-<img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/laravel.png" />
-<img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/vue.png" />
-<img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/react.png" />
-<img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/git.png" />
-<img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/docker.png" />
-
----
+<p float="left">
+  <img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/typescript.png" />
+  <img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/flutter.png" />
+  <img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/laravel.png" />
+  <img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/vue.png" />
+  <img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/react.png" />
+  <img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/git.png" />
+  <img width="52px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/Sancho41/Sancho41/master/resources/images/docker.png" />
+</p>
 
 <div align="center">
 
