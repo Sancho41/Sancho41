@@ -32,24 +32,24 @@
 
 
 <img style="width: 50px; margin-right: 10px;" src="resources/images/javascript.png" />
+<img style="width: 50px; margin-right: 10px;" src="resources/images/html5.png" />
+<img style="width: 50px; margin-right: 10px;" src="resources/images/css.png" />
 <img style="width: 50px; margin-right: 10px;" src="resources/images/java.png" />
 <img style="width: 50px; margin-right: 10px;" src="resources/images/php.png" />
 <img style="width: 50px; margin-right: 10px;" src="resources/images/python.png" />
 <img style="width: 50px; margin-right: 10px;" src="resources/images/c.png" />
-<img style="width: 50px; margin-right: 10px;" src="resources/images/html5.png" />
-<img style="width: 50px; margin-right: 10px;" src="resources/images/css.png" />
 
 ---
 
 - Tecnologies and frameworks
 
+<img style="width: 50px; margin-right: 10px;" src="resources/images/typescript.png" />
 <img style="width: 50px; margin-right: 10px;" src="resources/images/flutter.png" />
 <img style="width: 50px; margin-right: 10px;" src="resources/images/laravel.png" />
 <img style="width: 50px; margin-right: 10px;" src="resources/images/vue.png" />
 <img style="width: 50px; margin-right: 10px;" src="resources/images/react.png" />
 <img style="width: 50px; margin-right: 10px;" src="resources/images/git.png" />
 <img style="width: 50px; margin-right: 10px;" src="resources/images/docker.png" />
-<img style="width: 50px; margin-right: 10px;" src="resources/images/typescript.png" />
 
 ---
 
