@@ -29,24 +29,27 @@
 
 - Languages
 
-[![Javascript Badge](https://img.shields.io/badge/-javascript-000?style=for-the-badge&labelColor=F7DF1E&logo=javascript&logoColor=black)]()
-[![java Badge](https://img.shields.io/badge/-java-000?style=for-the-badge&labelColor=007396&logo=java&logoColor=black)]()
-[![php Badge](https://img.shields.io/badge/-php-000?style=for-the-badge&labelColor=777BB4&logo=php&logoColor=black)]()
-[![python Badge](https://img.shields.io/badge/-python-000?style=for-the-badge&labelColor=3776AB&logo=python&logoColor=black)]()
-[![c Badge](https://img.shields.io/badge/-c-000?style=for-the-badge&labelColor=A8B9CC&logo=c&logoColor=black)]()
-[![html5 Badge](https://img.shields.io/badge/-html5-000?style=for-the-badge&labelColor=E34F26&logo=html5&logoColor=black)]()
-[![css3 Badge](https://img.shields.io/badge/-css3-000?style=for-the-badge&labelColor=1572B6&logo=css3&logoColor=black)]()
+
+
+<img style="width: 50px; margin-right: 10px;" src="resources/images/javascript.png" />
+<img style="width: 50px; margin-right: 10px;" src="resources/images/java.png" />
+<img style="width: 50px; margin-right: 10px;" src="resources/images/php.png" />
+<img style="width: 50px; margin-right: 10px;" src="resources/images/python.png" />
+<img style="width: 50px; margin-right: 10px;" src="resources/images/c.png" />
+<img style="width: 50px; margin-right: 10px;" src="resources/images/html5.png" />
+<img style="width: 50px; margin-right: 10px;" src="resources/images/css.png" />
 
 ---
 
 - Tecnologies and frameworks
 
-[![flutter Badge](https://img.shields.io/badge/-flutter-000?style=for-the-badge&labelColor=02569B&logo=flutter&logoColor=black)]()
-[![laravel Badge](https://img.shields.io/badge/-laravel-000?style=for-the-badge&labelColor=FF2D20&logo=laravel&logoColor=black)]()
-[![vue-dot-js Badge](https://img.shields.io/badge/-vue.js-000?style=for-the-badge&labelColor=4FC08D&logo=vue.js&logoColor=black)]()
-[![react Badge](https://img.shields.io/badge/-react-000?style=for-the-badge&labelColor=61DAFB&logo=react&logoColor=black)]()
-[![git Badge](https://img.shields.io/badge/-git-000?style=for-the-badge&labelColor=F05032&logo=git&logoColor=black)]()
-[![docker Badge](https://img.shields.io/badge/-docker-000?style=for-the-badge&labelColor=2496ED&logo=docker&logoColor=black)]()
+<img style="width: 50px; margin-right: 10px;" src="resources/images/flutter.png" />
+<img style="width: 50px; margin-right: 10px;" src="resources/images/laravel.png" />
+<img style="width: 50px; margin-right: 10px;" src="resources/images/vue.png" />
+<img style="width: 50px; margin-right: 10px;" src="resources/images/react.png" />
+<img style="width: 50px; margin-right: 10px;" src="resources/images/git.png" />
+<img style="width: 50px; margin-right: 10px;" src="resources/images/docker.png" />
+<img style="width: 50px; margin-right: 10px;" src="resources/images/typescript.png" />
 
 ---
 
