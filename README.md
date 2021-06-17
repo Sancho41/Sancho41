@@ -18,8 +18,7 @@
 
 ### _I',m a **Computer Science**_ 💻 _student, constantly trying to conquer de **world**_ 🌎
 
-- 🌱 I’m currently learning **Typescript 💙**
-- 🤔 I’m looking for help with getting a job, please hire me 🙏
+- 🌱 I’m currently learning **Android**
 - 💬 Ask me about anything, i'm glad to help 😉
 - 📫 How to reach me: You can click in any social media above, be my friend 😁
 
@@ -57,5 +56,3 @@
 [![Github Status](https://github-readme-stats.vercel.app/api?username=sancho41&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/sancho41/sancho41)
 
 </div>
-
-_please hire me_ 🙏
